@@ -1,0 +1,7 @@
+fd
+fzf
+lsd
+bat
+nerd-fonts-victor-mono
+dust
+fisher
