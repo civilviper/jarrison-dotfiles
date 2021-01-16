@@ -6,10 +6,10 @@ SETUVAR Z_DATA:/home/jarrison/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/jarrison/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/home/jarrison\x24
 SETUVAR __fish_initialized:3100
-SETUVAR _fisher_edc_2F_bass_files:/home/jarrison/\x2econfig/fish/functions/__bass\x2epy\x1e/home/jarrison/\x2econfig/fish/functions/bass\x2efish
 SETUVAR _fisher_jethrokuan_2F_z_files:/home/jarrison/\x2econfig/fish/functions/__z\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/jarrison/\x2econfig/fish/conf\x2ed/z\x2efish
+SETUVAR _fisher_jorgebucaran_2F_autopair_2E_fish_files:/home/jarrison/\x2econfig/fish/functions/_autopair_backspace\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/_autopair_insert_left\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/_autopair_insert_right\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/_autopair_insert_same\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/_autopair_tab\x2efish\x1e/home/jarrison/\x2econfig/fish/conf\x2ed/autopair\x2efish
 SETUVAR _fisher_patrickf1_2F_fzf_2E_fish_files:/home/jarrison/\x2econfig/fish/functions/__fzf_extract_var_info\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_preview_file\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_report_file_type\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_search_current_dir\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_search_git_log\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_search_git_status\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_search_history\x2efish\x1e/home/jarrison/\x2econfig/fish/functions/__fzf_search_shell_variables\x2efish\x1e/home/jarrison/\x2econfig/fish/conf\x2ed/fzf\x2efish
-SETUVAR _fisher_plugins:edc/bass\x1ejethrokuan/z\x1epatrickf1/fzf\x2efish
+SETUVAR _fisher_plugins:patrickf1/fzf\x2efish\x1ejorgebucaran/autopair\x2efish\x1ejethrokuan/z
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:cyan
