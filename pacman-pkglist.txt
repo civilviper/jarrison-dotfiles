@@ -5,3 +5,4 @@ bat
 nerd-fonts-victor-mono
 dust
 fisher
+dfc
